@@ -50,4 +50,4 @@ Additional case studies will cover KPI/executive dashboarding, PMO operating mod
 
 ## Contact
 
-Please reach out through my resume or LinkedIn to discuss a project or request a supporting work sample.
+[Connect with me on LinkedIn](https://www.linkedin.com/in/heather-kohls-pmo-commercial-publicsector-transformation/) to discuss my experience, a project, or request a supporting work sample.
