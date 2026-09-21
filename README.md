@@ -1,25 +1,38 @@
-# Heather Kohls | Operations and Contracts Portfolio
+# Heather Kohls | Contracts • Business Operations • PMO
 
-I lead cross-functional work that connects contract requirements to delivery, billing, reporting, and management decisions. This portfolio highlights selected projects in contract operations, program management, process improvement, and data visibility.
+I build operating models that turn complex contractual and business requirements into scalable processes, stronger governance, and executable operations.
 
-## Selected work
+This portfolio highlights representative work across contract lifecycle management, post-award operations, PMO leadership, process improvement, governance, and data visibility. Customer, employee, pricing, and company-identifying information is redacted or generalized.
 
-### Contract to cash process improvement
+## Featured case study
 
-**Challenge:** Contract terms, task order funding, labor categories, timecards, and invoices were tracked across disconnected workflows. Teams spent time reconciling records before billing and had limited visibility into remaining funding and exceptions.
+### Contract-to-Cash Transformation | Lean Six Sigma, Salesforce & FinancialForce / Certinia
 
-**My role:** Project leader and sponsor from PMO and Contracts, working with Sales, Legal, Finance, and Services.
+A contract-to-cash transformation that moved fragmented contract, task-order, labor-rate, time-entry, billing, and collections activity toward a governed, integrated operating model.
 
-**Approach:** We mapped the current handoffs, defined the fields and approvals needed for a future workflow, tested smaller contract scenarios first, and used findings from a larger project to strengthen exception and funding controls.
+**What the case demonstrates**
+- Current-state and future-state process design
+- Lean / Kaizen analysis of fragmented data and handoffs
+- Contract and task-order data design
+- Salesforce + FinancialForce / Certinia workflow integration
+- UAT and API-interface governance
+- RACI and production-readiness decision controls
+- Executive funding, billing, variance, and A/R visibility
 
-**Result:** The invoice and timesheet review cycle improved from roughly four weeks to about five business days. Task order reporting made approved versus billed work, funding, and variances easier to review.
+**Documented operational outcome:** invoice creation and timesheet review/acceptance moved from approximately four weeks to approximately five days.
 
-**Work samples:** After action review and supporting dashboard/workbook. Detailed samples are available for review during an interview or by direct request.
+[View the case-study overview](projects/contract-to-cash/README.md)
 
 ## How I share work samples
 
-The public summaries explain the problem, my role, the work, and the outcome. I share sanitized work samples individually so customer, employee, pricing, and business information does not appear in a public repository. The editable working files are not part of this portfolio.
+I intentionally do not publish the underlying editable workbooks, internal documents, customer data, employee information, pricing details, or unredacted artifacts in this repository. The repository shows the business problem, methodology, controls, and representative outputs while protecting confidential information.
+
+Sanitized supporting samples can be shared directly during an interview or upon request.
+
+## Portfolio roadmap
+
+Additional case studies will cover SOP and governance design, KPI/executive dashboarding, PMO operating models, and responsible AI enablement for contract and business operations.
 
 ## Contact
 
-Please reach out through my resume or LinkedIn to discuss a project or request a work sample.
+Please reach out through my resume or LinkedIn to discuss a project or request a supporting work sample.
