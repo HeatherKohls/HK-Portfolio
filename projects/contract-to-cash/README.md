@@ -10,6 +10,10 @@ Contract and project financial management depended on multiple disconnected sour
 
 That fragmentation created avoidable reconciliation, rework, queue time, and limited visibility into funding and billing exceptions.
 
+## My role
+
+I led the business-process side of the transformation across Contracts/PMO, IT, Services Delivery, and Finance. My work included mapping the current state, identifying Lean Six Sigma gaps and control failures, translating contract and billing requirements into system fields and workflows, partnering with internal and external developers, defining UAT scenarios, validating reporting, and helping establish the governance needed for production use.
+
 ## Current state
 
 The current-state review identified a fragmented flow that included:
