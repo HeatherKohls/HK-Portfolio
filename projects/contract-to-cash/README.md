@@ -75,11 +75,11 @@ The documented operational result was a reduction in invoice creation plus times
 
 The redesigned approach also improved the ability to see task-order funding, approved versus billed activity, remaining funding, billing variance, missing time, and outstanding A/R in a more controlled management view.
 
-## Supporting work sample
+## Supporting portfolio sample
 
-A sanitized Contract-to-Cash workbook has been prepared with customer and company identifiers removed. It contains the detailed TO tracking, executive dashboard, process map, UAT, field design, IT/API RACI, and Kaizen data-flow views referenced above.
+[View the sanitized Contract-to-Cash Case Study PDF](Contract_to_Cash_Case_Study.pdf)
 
-For confidentiality and security, the underlying workbook is **not publicly stored in this repository**. It is available for direct review during an interview or upon request.
+A detailed Contract-to-Cash workbook has also been prepared with customer and company identifiers removed. It contains the TO tracking, executive dashboard, process map, UAT, field design, IT/API RACI, and Kaizen data-flow views referenced above. The underlying workbook remains private and is available for direct review during an interview or upon request.
 
 ## Skills demonstrated
 

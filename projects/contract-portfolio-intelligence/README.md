@@ -50,9 +50,13 @@ The process helped the team evaluate renewal viability using actual contract per
 
 Because the systems did not yet fully communicate, we developed interim reporting and QC controls while APIs were being built to automate the data flow. The key transformation was not the dashboard alone; it was establishing the definitions, controls, review cadence and accountability required to make the information useful before the technology environment was fully integrated.
 
-## Supporting portfolio sample
+## Supporting portfolio samples
 
-A representative dashboard and workbook were created using simulated contract names, owners and financial values. The sample demonstrates the operating model without publishing employer or customer data. A sanitized supporting sample can be shared during an interview or upon request.
+[View the sanitized Case Study PDF](Contract_Portfolio_Intelligence_Case_Study.pdf)
+
+[View the representative dashboard workbook](Contract_Portfolio_Intelligence_Representative_Dashboard.xlsx)
+
+The dashboard workbook uses simulated contract names, owners and financial values to demonstrate the operating model without publishing employer or customer data.
 
 ## Portfolio disclosure
 
