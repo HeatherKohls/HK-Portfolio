@@ -23,24 +23,25 @@ A contract-to-cash transformation that moved fragmented contract, task-order, la
 
 [View the Contract-to-Cash case study](projects/contract-to-cash/README.md)
 
-### Contract Launch & Lifecycle Governance Transformation
+### Contract Governance & Operations
 
-An end-to-end operating model for moving agreements from award notification through negotiation, signature, operational launch, ongoing governance, and closeout while the team continued running the business.
+Two complementary examples demonstrate governance on both sides of contract signature.
 
-**What the case demonstrates**
-- Contract launch and lifecycle governance
-- SOP/playbook and checklist design
-- Cross-functional RACI and handoff controls
-- Risk-based prioritization
-- Change management and adoption
-- Smartsheet workflow visibility
-- Standardization as a foundation for automation and AI
+**Case Study 2A — Contract Launch & Lifecycle Governance Transformation**
 
-[View the Contract Launch & Lifecycle Governance case study](projects/contract-launch-governance/README.md)
+An end-to-end operating model for moving agreements from award notification through negotiation, signature, operational launch, ongoing governance, and closeout.
+
+[View Case Study 2A](projects/contract-governance-operations/contract-launch-governance/README.md)
 
 **Supporting portfolio sample:** [View the Contract Launch Governance Checklist](projects/contract-launch-governance/Contract_Launch_Governance_Checklist_Representative_Sample.pdf)
 
-This representative sample demonstrates the operational controls used to move an agreement from execution through documentation, systems setup, compliance and reporting, financial setup, Sales and Services enablement, and ongoing governance.
+**Case Study 2B — RFP-to-Signature Governance & Decision Process**
+
+A Shipley-informed stage-gate framework that brings Sales, Finance, Legal, Compliance and Program Management into RFP and contract decisions based on the value, risk and complexity of the opportunity.
+
+[View Case Study 2B](projects/contract-governance-operations/rfp-to-signature-governance/README.md)
+
+**Supporting portfolio sample:** [View the RFP Internal Review Process & Color Team Involvement](projects/contract-governance-operations/rfp-to-signature-governance/RFP_to_Signature_Governance_Color_Team_Artifact.pdf)
 
 ## How I share work samples
 
