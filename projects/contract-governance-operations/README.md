@@ -17,6 +17,8 @@ An end-to-end operating model for moving agreements from award notification thro
 
 [View Case Study 2A](contract-launch-governance/README.md)
 
+**Supporting portfolio sample:** [View the Contract Launch Governance Checklist](contract-launch-governance/Contract_Launch_Governance_Checklist_Representative_Sample.pdf)
+
 ## Case Study 2B — RFP-to-Signature Governance & Decision Process
 
 A structured, Shipley-informed stage-gate framework for bringing Sales, Finance, Legal, Compliance and Program Management into RFP and contract decisions at the appropriate points.
@@ -31,3 +33,5 @@ A structured, Shipley-informed stage-gate framework for bringing Sales, Finance,
 - Pre-award to post-award handoff
 
 [View Case Study 2B](rfp-to-signature-governance/README.md)
+
+**Supporting portfolio sample:** [View the RFP Internal Review Process & Color Team Involvement](rfp-to-signature-governance/RFP_to_Signature_Governance_Color_Team_Artifact.pdf)
