@@ -54,7 +54,7 @@ Because the systems did not yet fully communicate, we developed interim reportin
 
 [View the sanitized Case Study PDF](Contract_Portfolio_Intelligence_Case_Study.pdf)
 
-[View the representative dashboard workbook](Contract_Portfolio_Intelligence_Representative_Dashboard.xlsx)
+[Download the Representative Dashboard Workbook (.xlsx)](Contract_Portfolio_Intelligence_Representative_Dashboard.xlsx)
 
 The dashboard workbook uses simulated contract names, owners and financial values to demonstrate the operating model without publishing employer or customer data.
 
