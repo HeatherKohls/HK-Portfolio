@@ -41,7 +41,7 @@ A Shipley-informed stage-gate framework that brings Sales, Finance, Legal, Compl
 
 [View Case Study 2B](projects/contract-governance-operations/rfp-to-signature-governance/README.md)
 
-**Supporting portfolio sample:** [View the RFP Internal Review Process & Color Team Involvement](projects/contract-governance-operations/rfp-to-signature-governance/RFP_to_Signature_Governance_Color_Team_Artifact.pdf)
+**Supporting portfolio sample:** [View the RFP Internal Review Process & Color Team Involvement](projects/contract-launch-governance/RFP_to_Signature_Governance_Color_Team_Artifact.pdf)
 
 ## How I share work samples
 
