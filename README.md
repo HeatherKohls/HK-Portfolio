@@ -33,7 +33,7 @@ An end-to-end operating model for moving agreements from award notification thro
 
 [View Case Study 2A](projects/contract-governance-operations/contract-launch-governance/README.md)
 
-**Supporting portfolio sample:** [View the Contract Launch Governance Checklist](projects/contract-launch-governance/Contract_Launch_Governance_Checklist_Representative_Sample.pdf)
+**Supporting portfolio sample:** [View the Contract Launch Governance Checklist](projects/contract-governance-operations/contract-launch-governance/Contract_Launch_Governance_Checklist_Representative_Sample.pdf)
 
 **Case Study 2B — RFP-to-Signature Governance & Decision Process**
 
@@ -41,7 +41,7 @@ A Shipley-informed stage-gate framework that brings Sales, Finance, Legal, Compl
 
 [View Case Study 2B](projects/contract-governance-operations/rfp-to-signature-governance/README.md)
 
-**Supporting portfolio sample:** [View the RFP Internal Review Process & Color Team Involvement](projects/contract-launch-governance/RFP_to_Signature_Governance_Color_Team_Artifact.pdf)
+**Supporting portfolio sample:** [View the RFP Internal Review Process & Color Team Involvement](projects/contract-governance-operations/rfp-to-signature-governance/RFP_to_Signature_Governance_Color_Team_Artifact.pdf)
 
 ## How I share work samples
 
