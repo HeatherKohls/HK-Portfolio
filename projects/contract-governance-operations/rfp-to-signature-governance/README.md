@@ -69,7 +69,9 @@ No quantified performance improvement is claimed in this representative sample; 
 
 ## Supporting portfolio sample
 
-[View the RFP Internal Review Process & Color Team Involvement artifact](RFP_to_Signature_Governance_Color_Team_Artifact.pdf)\n\nThis representative visual shows the six-stage decision process, approval gates, internal stakeholder roles and illustrative contract-value thresholds used to scale review requirements.
+[View the RFP Internal Review Process & Color Team Involvement artifact](RFP_to_Signature_Governance_Color_Team_Artifact.pdf)
+
+This representative visual shows the six-stage decision process, approval gates, internal stakeholder roles and illustrative contract-value thresholds used to scale review requirements.
 
 ## Methodology note
 
