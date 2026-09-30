@@ -38,6 +38,10 @@ An end-to-end operating model for moving agreements from award notification thro
 
 [View the Contract Launch & Lifecycle Governance case study](projects/contract-launch-governance/README.md)
 
+**Supporting portfolio sample:** [View the Contract Launch Governance Checklist](projects/contract-launch-governance/Contract_Launch_Governance_Checklist_Representative_Sample.pdf)
+
+This representative sample demonstrates the operational controls used to move an agreement from execution through documentation, systems setup, compliance and reporting, financial setup, Sales and Services enablement, and ongoing governance.
+
 ## How I share work samples
 
 I intentionally do not publish the underlying editable workbooks, internal documents, customer data, employee information, pricing details, or unredacted artifacts in this repository. The repository shows the business problem, methodology, controls, and representative outputs while protecting confidential information.
