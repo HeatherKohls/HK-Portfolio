@@ -23,27 +23,12 @@ A contract-to-cash transformation that moved fragmented contract, task-order, la
 
 [View Case Study #1](projects/contract-to-cash/README.md)
 
-**Supporting portfolio sample:** [View the sanitized Contract-to-Cash Case Study PDF](projects/contract-to-cash/Contract_to_Cash_Case_Study.pdf). Detailed workbook available privately during an interview or upon request.
 
 ### Contract Governance & Operations
 
-Two complementary examples demonstrate governance on both sides of contract signature.
+Two complementary examples demonstrate governance on both sides of contract signature: pre-award RFP-to-signature decision governance and post-award contract launch/lifecycle governance.
 
-**Case Study 2A — Contract Launch & Lifecycle Governance Transformation**
-
-An end-to-end operating model for moving agreements from award notification through negotiation, signature, operational launch, ongoing governance, and closeout.
-
-[View Case Study 2A](projects/contract-governance-operations/contract-launch-governance/README.md)
-
-**Supporting portfolio sample:** [View the Contract Launch Governance Checklist](projects/contract-governance-operations/contract-launch-governance/Contract_Launch_Governance_Checklist_Representative_Sample.pdf)
-
-**Case Study 2B — RFP-to-Signature Governance & Decision Process**
-
-A Shipley-informed stage-gate framework that brings Sales, Finance, Legal, Compliance and Program Management into RFP and contract decisions based on the value, risk and complexity of the opportunity.
-
-[View Case Study 2B](projects/contract-governance-operations/rfp-to-signature-governance/README.md)
-
-**Supporting portfolio sample:** [View the RFP Internal Review Process & Color Team Involvement](projects/contract-governance-operations/rfp-to-signature-governance/RFP_to_Signature_Governance_Color_Team_Artifact.pdf)
+[View Case Study #2](projects/contract-governance-operations/README.md)
 
 ### Contract Portfolio Intelligence & Renewal Management
 
@@ -51,13 +36,10 @@ A closed-loop portfolio management model connecting renewal timing, original opp
 
 [View Case Study #3](projects/contract-portfolio-intelligence/README.md)
 
-**Supporting portfolio samples:** [View the sanitized Case Study PDF](projects/contract-portfolio-intelligence/Contract_Portfolio_Intelligence_Case_Study.pdf) • [View the representative dashboard workbook](projects/contract-portfolio-intelligence/Contract_Portfolio_Intelligence_Representative_Dashboard.xlsx)
 
 ## How I share work samples
 
-I intentionally do not publish the underlying editable workbooks, internal documents, customer data, employee information, pricing details, or unredacted artifacts in this repository. The repository shows the business problem, methodology, controls, and representative outputs while protecting confidential information.
-
-Sanitized supporting samples can be shared directly during an interview or upon request.
+I publish only sanitized or representative work samples that are appropriate for external review. Original employer documents, customer data, employee information, proprietary pricing details and unredacted artifacts are not published. Additional supporting material can be reviewed directly during an interview or upon request.
 
 ## Portfolio roadmap
 
