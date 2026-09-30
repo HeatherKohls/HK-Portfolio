@@ -55,4 +55,8 @@ Once the lifecycle, templates and side trackers were more consistent, the proces
 
 This is a representative professional case study. Company, customer, employee and contract-identifying information has been redacted or generalized for external distribution. Internal portfolio volumes and performance metrics are intentionally omitted from this public repository.
 
-A sanitized supporting PDF and additional work samples can be shared directly during an interview or upon request.
+## Supporting portfolio sample
+
+[View the Contract Launch Governance Checklist](Contract_Launch_Governance_Checklist_Representative_Sample.pdf)
+
+This representative checklist demonstrates the controls used to move an agreement from intake through operational launch and ongoing governance. Additional internal work samples remain private and can be reviewed directly during an interview or upon request.
