@@ -23,7 +23,7 @@ A contract-to-cash transformation that moved fragmented contract, task-order, la
 
 [View Case Study #1](projects/contract-to-cash/README.md)
 
-**Supporting portfolio sample:** Sanitized case-study PDF and detailed workbook available for direct review during an interview or upon request.
+**Supporting portfolio sample:** [View the sanitized Contract-to-Cash Case Study PDF](projects/contract-to-cash/Contract_to_Cash_Case_Study.pdf). Detailed workbook available privately during an interview or upon request.
 
 ### Contract Governance & Operations
 
@@ -51,7 +51,7 @@ A closed-loop portfolio management model connecting renewal timing, original opp
 
 [View Case Study #3](projects/contract-portfolio-intelligence/README.md)
 
-**Supporting portfolio sample:** Representative dashboard workbook and sanitized case-study PDF available for direct review during an interview or upon request.
+**Supporting portfolio samples:** [View the sanitized Case Study PDF](projects/contract-portfolio-intelligence/Contract_Portfolio_Intelligence_Case_Study.pdf) • [View the representative dashboard workbook](projects/contract-portfolio-intelligence/Contract_Portfolio_Intelligence_Representative_Dashboard.xlsx)
 
 ## How I share work samples
 
