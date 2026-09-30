@@ -38,10 +38,12 @@ Each stage has a defined gate so the opportunity either proceeds, is reworked or
 - **Sales** — customer strategy, solution approach and win plan.
 - **Program Management** — delivery feasibility, resources, implementation and operational readiness.
 - **Finance** — financial viability, pricing, margin, cost structure and contract-value considerations.
-- **Legal** — contract terms, redlines, negotiation support, legal risk and signature authority.
+- **Legal** — reviews and negotiates contract terms, advises on legal risk, and validates approval/signature routing.
 - **Compliance** — regulatory, customer, ethical, policy, data-security and other applicable requirements.
 
-The level of involvement is not intended to be identical for every opportunity. Contract value, complexity, non-standard terms, regulatory requirements, strategic importance and delivery risk can all increase the level of review or approval required.
+The level of involvement is not intended to be identical for every opportunity. Contract value, complexity, non-standard terms, regulatory requirements, strategic importance and delivery risk can all increase the level of review or approval required. Risk triggers can override value tiers; compliance, security, export, data-privacy or other material risk requirements may require review regardless of contract value.
+
+Residual business risk is accepted by the designated business or executive risk owner under the organization's delegated authority, and the agreement is executed by the authorized signer.
 
 ## Governance principle
 
