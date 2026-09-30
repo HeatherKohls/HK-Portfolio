@@ -21,7 +21,9 @@ A contract-to-cash transformation that moved fragmented contract, task-order, la
 
 **Documented operational outcome:** invoice creation and timesheet review/acceptance moved from approximately four weeks to approximately five days.
 
-[View the Contract-to-Cash case study](projects/contract-to-cash/README.md)
+[View Case Study #1](projects/contract-to-cash/README.md)
+
+**Supporting portfolio sample:** Sanitized case-study PDF and detailed workbook available for direct review during an interview or upon request.
 
 ### Contract Governance & Operations
 
@@ -48,6 +50,8 @@ A Shipley-informed stage-gate framework that brings Sales, Finance, Legal, Compl
 A closed-loop portfolio management model connecting renewal timing, original opportunity estimates and actual contract sales to support renewal, pricing, margin and resource decisions across State, Local, Commercial and Federal contracts.
 
 [View Case Study #3](projects/contract-portfolio-intelligence/README.md)
+
+**Supporting portfolio sample:** Representative dashboard workbook and sanitized case-study PDF available for direct review during an interview or upon request.
 
 ## How I share work samples
 
