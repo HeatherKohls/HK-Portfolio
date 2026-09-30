@@ -43,6 +43,12 @@ A Shipley-informed stage-gate framework that brings Sales, Finance, Legal, Compl
 
 **Supporting portfolio sample:** [View the RFP Internal Review Process & Color Team Involvement](projects/contract-governance-operations/rfp-to-signature-governance/RFP_to_Signature_Governance_Color_Team_Artifact.pdf)
 
+### Contract Portfolio Intelligence & Renewal Management
+
+A closed-loop portfolio management model connecting renewal timing, original opportunity estimates and actual contract sales to support renewal, pricing, margin and resource decisions across State, Local, Commercial and Federal contracts.
+
+[View Case Study #3](projects/contract-portfolio-intelligence/README.md)
+
 ## How I share work samples
 
 I intentionally do not publish the underlying editable workbooks, internal documents, customer data, employee information, pricing details, or unredacted artifacts in this repository. The repository shows the business problem, methodology, controls, and representative outputs while protecting confidential information.
@@ -51,7 +57,7 @@ Sanitized supporting samples can be shared directly during an interview or upon 
 
 ## Portfolio roadmap
 
-Additional case studies will cover KPI/executive dashboarding, PMO operating models, and responsible AI enablement for contract and business operations.
+Additional case studies will cover PMO operating models and responsible AI enablement for contract and business operations.
 
 ## Contact
 
